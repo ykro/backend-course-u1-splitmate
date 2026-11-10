@@ -27,7 +27,7 @@ app = FastAPI(
     version="1.1.0",
     description=(
         "API REST para dividir gastos de viaje y liquidar deudas al centavo. "
-        "Los montos viajan como texto con 2 decimales (Curso 1, Unidad 1)."
+        "Los montos viajan como texto con 2 decimales (Unidad 1)."
     ),
 )
 

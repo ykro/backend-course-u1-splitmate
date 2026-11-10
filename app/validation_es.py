@@ -1,4 +1,4 @@
-"""Mensajes de validación en español, comunes a las 3 unidades del Curso 1.
+"""Mensajes de validación en español, comunes a las 3 unidades del curso.
 
 Copia canónica: curso1-backend-fastapi/shared/validation_es.py. Cada proyecto la incluye como
 app/validation_es.py, idéntica byte a byte (scripts/check_course1.py lo verifica).
