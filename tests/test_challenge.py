@@ -1,6 +1,6 @@
 """Tests PÚBLICOS del reto autónomo: PATCH /api/v1/trips/{trip_id}/expenses/{expense_id}.
 
-Son una muestra. El contrato completo del README tiene otros datos y más
+Son una muestra. El contrato completo de la guía del reto tiene otros datos y más
 casos borde, así que impleméntalo completo, no solo lo que estos tests
 revisan.
 """

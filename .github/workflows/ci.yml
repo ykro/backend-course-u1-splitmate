@@ -47,7 +47,7 @@ jobs:
             echo "## Resultado de CI"
             echo ""
             echo "Este resultado es retroalimentación sobre tu trabajo."
-            echo "Los tests públicos del reto son una muestra: el contrato completo del README"
+            echo "Los tests públicos del reto son una muestra: el contrato completo de la guía del reto"
             echo "tiene más casos borde y otros datos. Escribe tus propios tests y no modifiques"
             echo "los tests oficiales ni este workflow."
           } >> "$GITHUB_STEP_SUMMARY"
