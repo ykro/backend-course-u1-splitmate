@@ -2,7 +2,7 @@
 
 Herméticos: cada test recibe un almacén en memoria nuevo, no se crean
 archivos .db y cualquier intento de abrir una conexión de red falla.
-No modifiques este archivo: el calificador usa siempre la copia oficial.
+No modifiques este archivo: es parte de la suite oficial.
 """
 
 import socket

@@ -1,8 +1,8 @@
 """Tests PÚBLICOS del reto autónomo: PATCH /api/v1/trips/{trip_id}/expenses/{expense_id}.
 
-Son una muestra. La nota del reto incluye además tests ocultos con otros
-datos y más casos borde, así que implementa el contrato completo del README,
-no solo lo que estos tests revisan.
+Son una muestra. El contrato completo del README tiene otros datos y más
+casos borde, así que impleméntalo completo, no solo lo que estos tests
+revisan.
 """
 
 from collections.abc import Callable
