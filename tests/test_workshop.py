@@ -1,4 +1,4 @@
-"""Tests oficiales del taller guiado: split_evenly, add_expense y calculate_settlements.
+"""Tests del taller guiado: split_evenly, add_expense y calculate_settlements.
 
 En el starter fallan; pasan a verde al completar el codelab.
 """

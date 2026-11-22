@@ -213,5 +213,5 @@ _default_store = _build_demo_store() if _seed_enabled() else InMemorySplitMateSt
 
 
 def get_store() -> InMemorySplitMateStore:
-    """Dependencia que entrega el almacén activo."""
+    """Dependencia que entrega el store activo."""
     return _default_store

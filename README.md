@@ -29,4 +29,4 @@ uv run ruff check . && uv run ruff format --check . && uv run pytest -v   # cheq
 
 El archivo `AGENTS.md` trae las reglas para el asistente de IA.
 
-El enunciado del reto, la rúbrica y la guía paso a paso están en el curso.
+El enunciado del reto, qué debe cumplir y la guía paso a paso están en el curso.

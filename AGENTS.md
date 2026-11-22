@@ -1,6 +1,6 @@
 # AGENTS.md — Reglas para asistentes de IA en SplitMate API (Unidad 1)
 
-Este archivo le da contexto permanente a cualquier asistente de código que trabaje en el repositorio. Es una base: como parte de tu entrega debes ampliarlo con al menos una regla propia (ver `ARCHITECTURE_DECISIONS.md`, pregunta 5).
+Este archivo le da contexto permanente a cualquier asistente de código que trabaje en el repositorio. Es una base: como parte del reto debes ampliarlo con al menos una regla propia (ver `ARCHITECTURE_DECISIONS.md`, pregunta 5).
 
 ## 1. Entorno y comandos
 
@@ -24,7 +24,7 @@ Este archivo le da contexto permanente a cualquier asistente de código que trab
 ## 4. Pruebas
 
 - No modifiques `tests/conftest.py`, `tests/test_demo.py`, `tests/test_workshop.py`, `tests/test_challenge.py` ni `.github/workflows/ci.yml`.
-- Los tests propios viven en `tests/student/`, usan los fixtures oficiales y no acceden a la red ni a archivos.
+- Los tests propios viven en `tests/student/`, usan los fixtures de `tests/conftest.py` y no acceden a la red ni a archivos.
 - Ningún código de `app/` puede detectar si corre bajo pytest.
 
 ## 5. Seguridad de la consola

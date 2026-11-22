@@ -1,7 +1,7 @@
-"""Tests PÚBLICOS del reto autónomo: PATCH /api/v1/trips/{trip_id}/expenses/{expense_id}.
+"""Tests del reto autónomo: PATCH /api/v1/trips/{trip_id}/expenses/{expense_id}.
 
-Son una muestra. El contrato completo de la guía del reto tiene otros datos y más
-casos borde, así que impleméntalo completo, no solo lo que estos tests
+Cubren parte del contrato. La guía del reto tiene el contrato completo, con más
+edge cases y otros datos: impleméntalo completo, no solo lo que estos tests
 revisan.
 """
 

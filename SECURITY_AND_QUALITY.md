@@ -10,4 +10,4 @@ Marca cada casilla solo si la verificaste en tu código y escribe la evidencia (
 - [ ] **Errores 422 sin eco.** Las respuestas de validación devuelven `loc`, `msg` y `type`, nunca `input` ni `ctx`. Evidencia:
 - [ ] **Consola segura.** Sin `innerHTML` con datos, sin manejadores inline, CSP con nonce en `/` y ninguna credencial en el código. Evidencia:
 - [ ] **Sin estado compartido accidental.** Ningún parámetro por defecto mutable (`def f(x=[])`) y ninguna llamada bloqueante (`time.sleep`) dentro de `async def`. Evidencia:
-- [ ] **Calidad.** `uv run ruff check .` y `uv run ruff format --check .` limpios, `uv run pytest -v` en verde y ningún archivo oficial modificado. Evidencia:
+- [ ] **Calidad.** `uv run ruff check .` y `uv run ruff format --check .` limpios, `uv run pytest -v` en verde y ningún test ni workflow de la plantilla modificado. Evidencia:

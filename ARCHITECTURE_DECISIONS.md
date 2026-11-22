@@ -1,6 +1,6 @@
 # Decisiones de arquitectura — SplitMate API (Unidad 1)
 
-Responde con tus palabras y con ejemplos de tu propio código. Respuestas genéricas que podrían aplicar a cualquier proyecto reciben poco puntaje. Extensión sugerida: de 3 a 8 líneas por pregunta.
+Responde con tus palabras y con ejemplos de tu propio código. Una respuesta genérica, que podría aplicar a cualquier proyecto, no muestra tus decisiones. Extensión sugerida: de 3 a 8 líneas por pregunta.
 
 ## 1. Dinero exacto
 
@@ -44,7 +44,7 @@ Copia la regla que agregaste a `AGENTS.md`. Describe qué generó el asistente d
 
 ## 6. Declaración de uso de IA
 
-Completa con honestidad; declarar el uso no resta puntos, ocultarlo sí.
+Completa con honestidad: declarar cómo usaste la IA es parte del ejercicio.
 
 - Herramientas usadas (o "ninguna"):
 - Partes del trabajo en las que las usaste:

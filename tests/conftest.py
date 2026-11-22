@@ -1,8 +1,8 @@
-"""Fixtures oficiales de SplitMate API.
+"""Fixtures de SplitMate API.
 
 Herméticos: cada test recibe un almacén en memoria nuevo, no se crean
 archivos .db y cualquier intento de abrir una conexión de red falla.
-No modifiques este archivo: es parte de la suite oficial.
+No modifiques este archivo: es parte de los tests de la plantilla.
 """
 
 import socket
